@@ -19,8 +19,8 @@ My journey in information technology has led me to develop a passion for cyberse
 | Network Forensics and Analysis                   | <a href="https://github.com/CyberHaack/Network-Forensics-Lab"> Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection	 | <a href="https://github.com/CyberHaack/Network-Traffic-Monitoring-and-Attack-Detection">Detection Lab</a>| 
 | Security Automation with Shuffle SOAR            | <a href="Url">Automation Lab</a>
-| Incident Response Planning and Execution	       | <a href="https://github.com/CyberHaack/Security-Automation-with-Shuffle-SOAR">SOC Automation Lab</a>
-| Scripting and Automation for Threat Mitigation	 | <a href="Url">SOC Automation Lab</a>
+| Incident Response Planning and Execution	       | <a href="https://github.com/CyberHaack/Incident-Response-Planning-and-Execution">SOC Automation Lab</a> 
+| Scripting and Automation for Threat Mitigation	 | <a href="https://github.com/CyberHaack/Scripting-and-Automation-for-Threat-Mitigation">SOC Automation Lab</a>
 
 # Tools
 
@@ -64,6 +64,6 @@ My journey in information technology has led me to develop a passion for cyberse
   
 ### Projects
 - <a href="https://github.com/CyberHaack/Network-Forensics-Lab"> Detection Lab</a>
-- <a href="https://github.com/CyberHaack/Security-Automation-with-Shuffle-SOAR"> Incidence and Response Lab</a>
+- <a href="https://github.com/CyberHaack/Incident-Response-Planning-and-Execution"> Incident and Response Lab</a>
 - Malware Analysis Lab
 - Vulnerability and Threat Assessment Labs 
