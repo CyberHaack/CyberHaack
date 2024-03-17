@@ -1,4 +1,4 @@
-# Hello, I'm Ruth
+# Hello, I'm Kachi
 <a href="https://linkedin.com/in/kachiokereke/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>  <a href="https://twitter.com/CyberHacck"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://medium.com/@CyberHacck"><img src="https://img.shields.io/badge/-Medium-12100E?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 
 
@@ -14,7 +14,7 @@ My journey in information technology has led me to develop a passion for cyberse
 
 | Skill                                       |        Associated Project              |
 |---------------------------------------------|----------------------------------------|
-| SIEM Implementation and Log Analysis	           | <a href="https://letsdefend.io">Detection Lab</a>|
+| SIEM Implementation and Log Analysis	           | <a href="https://github.com/CyberHaack/SIEM-Implementation-and-Log-Analysis">Detection Lab</a>|
 | Phishing Analysis                                | <a href="https://app.letsdefend.io/my-badges/detail/c9431116-e6af-488f-913b-9ac2ee6bd8db">Detection Lab</a>
 | Network Forensics and Analysis                   | <a href="https://github.com/CyberHaack/Network-Forensics-Lab"> Detection Lab</a>
 | Network Traffic Monitoring and Attack Detection	 | <a href="Url">Detection Lab</a>
