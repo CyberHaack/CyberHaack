@@ -20,7 +20,6 @@ My journey in information technology has led me to develop a passion for cyberse
 | Network Traffic Monitoring and Attack Detection	 | <a href="https://github.com/CyberHaack/Network-Traffic-Monitoring-and-Attack-Detection">Detection Lab</a>| 
 | Security Automation with Shuffle SOAR	SOC        | <a href="Url">Automation Lab</a>
 | Incident Response Planning and Execution	       | <a href="Url">SOC Automation Lab</a>
-| Case Management with TheHive	                   | <a href="Url">SOC Automation Lab</a>
 | Scripting and Automation for Threat Mitigation	 | <a href="Url">SOC Automation Lab</a>
 
 # Tools
