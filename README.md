@@ -15,7 +15,7 @@ My journey in information technology has led me to develop a passion for cyberse
 | Skill                                       |        Associated Project              |
 |---------------------------------------------|----------------------------------------|
 | SIEM Implementation and Log Analysis	           | <a href="https://github.com/CyberHaack/SIEM-Implementation-and-Log-Analysis">SOC Detection Lab</a>|
-| Phishing Analysis                                | <a href="https://app.letsdefend.io/my-badges/detail/c9431116-e6af-488f-913b-9ac2ee6bd8db">SOC Detection Lab</a>|
+| Phishing Analysis                                | <a href="https://github.com/CyberHaack/Phishing-Analysis/tree/main">SOC Detection Lab</a>|
 | Network Forensics and Analysis                   | <a href="https://github.com/CyberHaack/Network-Forensics-Lab"> SOC Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection	 | <a href="https://github.com/CyberHaack/Network-Traffic-Monitoring-and-Attack-Detection">SOC Detection Lab</a>| 
 | Security Automation with Shuffle SOAR            | <a href="https://github.com/CyberHaack/Security-Automation-with-Shuffle-SOAR">SOC Automation Lab</a>
