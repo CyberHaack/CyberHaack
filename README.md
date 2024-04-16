@@ -64,7 +64,7 @@ My journey in information technology has led me to develop a passion for cyberse
 
   
 ### Projects
-- <a href="https://github.com/CyberHaack/Network-Forensics-Lab"> Detection Lab</a>
-- <a href="https://github.com/CyberHaack/Incident-Response-Planning-and-Execution"> Incident and Response Lab</a>
+- <a href="https://github.com/CyberHaack/Incident-Monitoring-and-Detection-with-EDR)"> Incident Monitoring and Detection Lab</a>
+- <a href="https://github.com/CyberHaack/Network-Forensics-Lab"> Network Forensics Lab</a>
 - Malware Analysis Lab
 - Vulnerability and Threat Assessment Labs 
