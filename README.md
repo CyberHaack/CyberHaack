@@ -14,6 +14,7 @@ My journey in information technology has led me to develop a passion for cyberse
 
 | Skill                                       |        Associated Project              |
 |---------------------------------------------|----------------------------------------|
+| Monitoring and Detection with EDR                | <a href="https://github.com/CyberHaack/">SOC Detection Lab</a>|
 | SIEM Implementation and Log Analysis	           | <a href="https://github.com/CyberHaack/SIEM-Implementation-and-Log-Analysis">SOC Detection Lab</a>|
 | Phishing Analysis                                | <a href="https://github.com/CyberHaack/Phishing-Analysis/tree/main">SOC Detection Lab</a>|
 | Network Forensics and Analysis                   | <a href="https://github.com/CyberHaack/Network-Forensics-Lab"> SOC Detection Lab</a>|
