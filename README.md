@@ -4,11 +4,11 @@
 
 # Introduction 
 
-I am a recent graduate of information technology with a profound interest in technology and a dedication to solving complex problems.
+I am a graduate of information technology with a passion for IT and Cybersecurity and a dedication to solving complex problems. 
 
 # Objective
 
-My journey in information technology has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in information technology has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst. If you need a mediocre SOC Analyst then I happy to disappoint you as I only render exceptional services. 
 
 ## Skills
 
