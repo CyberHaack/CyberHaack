@@ -79,5 +79,6 @@ My journey in information technology has led me to develop a passion for cyberse
 - Vulnerability and Threat Assessment Labs
 
 ### Articles
+ <a href="https://medium.com/@CyberHacck/how-to-create-transport-rule-mail-flow-rule-in-exchange-online-to-reduce-phishing-attacks-901c161efd05"> Creating Mail Flow Rule (Transport Rule) to Prevent phishing Attacks </a>
  <a href="https://medium.com/@CyberHacck/how-to-install-and-configure-the-ibm-qradar-community-edition-on-virtual-machine-f9fcaa167656"> HOW TO INSTALL AND CONFIGURE THE IBM QRADAR COMMUNITY EDITION ON VIRTUAL MACHINE </a>
  
