@@ -8,7 +8,7 @@ I am a graduate of information technology with a passion for IT and Cybersecurit
 
 # Objective
 
-My journey in information technology has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst. If you need a mediocre SOC Analyst then I happy to disappoint you as I only render exceptional services. 
+My journey in information technology has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst. If you need a mediocre SOC Analyst then I am happy to disappoint you as I only render exceptional services. 
 
 ## Skills
 
