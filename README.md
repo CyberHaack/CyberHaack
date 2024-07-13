@@ -73,12 +73,17 @@ My journey in information technology has led me to develop a passion for cyberse
 
   
 ### Projects
-- <a href="https://github.com/CyberHaack/Incident-Monitoring-and-Detection-with-EDR)"> Incident Monitoring and Detection Lab</a>
+<div>
+- <a href="https://github.com/CyberHaack/Incident-Monitoring-and-Detection-with-EDR"> Incident Monitoring and Detection Lab</a>
 - <a href="https://github.com/CyberHaack/Network-Forensics-Lab"> Network Forensics Lab</a>
 - Malware Analysis Lab
 - Vulnerability and Threat Assessment Labs
+</div>
 
 ### Articles
- <a href="https://medium.com/@CyberHacck/how-to-create-transport-rule-mail-flow-rule-in-exchange-online-to-reduce-phishing-attacks-901c161efd05"> Creating Mail Flow Rule (Transport Rule) to Prevent phishing Attacks </a>
- <a href="https://medium.com/@CyberHacck/how-to-install-and-configure-the-ibm-qradar-community-edition-on-virtual-machine-f9fcaa167656"> HOW TO INSTALL AND CONFIGURE THE IBM QRADAR COMMUNITY EDITION ON VIRTUAL MACHINE </a>
+<div>
+ <a href="https://medium.com/@CyberHacck/how-to-create-transport-rule-mail-flow-rule-in-exchange-online-to-reduce-phishing-attacks-901c161efd05">CREATING MAIL FLOW RULE (TRANSPORT RULE) TO PREVENT PHSIHING ATTACKS</a>
  
+<a href="https://medium.com/@CyberHacck/how-to-install-and-configure-the-ibm-qradar-community-edition-on-virtual-machine-f9fcaa167656"> HOW TO INSTALL AND CONFIGURE THE IBM QRADAR COMMUNITY EDITION ON VIRTUAL MACHINE </a>
+ 
+</div>
