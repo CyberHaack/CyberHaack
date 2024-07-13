@@ -65,6 +65,7 @@ My journey in information technology has led me to develop a passion for cyberse
 
 <div>
   <img src="https://img.shields.io/badge/-ISC2%20CC-003366?&style=for-the-badge&logo=isc2&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SC--900-002050?style=for-the-badge&logo=microsoft&logoColor=white" /> 
   <img src="https://img.shields.io/badge/%20ISO%2FIEC%2027001%20Associate-0066CC?&style=for-the-badge&logo=skillfront&logoColor=white" />
   <img src="https://img.shields.io/badge/-Cisco%20Junior%20Cybersecurity%20Analyst-0066CC?&style=for-the-badge&logo=cisco&logoColor=white" />
   <img src="https://img.shields.io/badge/-Google%20IT%20Support%20Professional-0066CC?&style=for-the-badge&logo=google&logoColor=white" />
