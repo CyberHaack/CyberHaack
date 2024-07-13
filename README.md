@@ -41,6 +41,8 @@ My journey in information technology has led me to develop a passion for cyberse
    <img src="https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
    <img src="https://img.shields.io/badge/-Azure%20Active%20Directory-0089D6?style=for-the-badge&logo=azure-active-directory&logoColor=white" />
    <img src="https://img.shields.io/badge/-Microsoft%20Defender-0078D7?style=for-the-badge&logo=microsoft-defender&logoColor=white" />
+   <img src="https://img.shields.io/badge/-Microsoft%20Azure%20Active%20Directory-0089D6?style=for-the-badge&logo=azure-active-directory&logoColor=white" />
+
 
  </div>
 
