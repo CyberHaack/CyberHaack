@@ -12,7 +12,7 @@ My journey in information technology has led me to develop a passion for cyberse
 
 ## Skills
 
-| Skill                                       |        Associated Project              |
+| Skills                                       |        Associated Project              |
 |---------------------------------------------|----------------------------------------|
 | Monitoring and Detection with EDR                | <a href="https://github.com/CyberHaack/Incident-Monitoring-and-Detection-with-EDR">SOC Detection Lab</a>|
 | Network Forensics and Analysis                   | <a href="https://github.com/CyberHaack/Network-Forensics-Lab"> SOC Detection Lab</a>|
@@ -36,6 +36,15 @@ My journey in information technology has led me to develop a passion for cyberse
  <div>
    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+
+### Cloud Management Interface
+   <img src="https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+   <img src="https://img.shields.io/badge/-Azure%20Active%20Directory-0089D6?style=for-the-badge&logo=azure-active-directory&logoColor=white" />
+   <img src="https://img.shields.io/badge/-Microsoft%20Defender-0078D7?style=for-the-badge&logo=microsoft-defender&logoColor=white" />
+   <img src="https://img.shields.io/badge/-Microsoft%20365%20Admin%20Centers-747474?style=for-the-badge&logo=microsoft&logoColor=white" />
+
+
+
  </div>
 
 ### SIEM
@@ -51,6 +60,7 @@ My journey in information technology has led me to develop a passion for cyberse
 <img src="https://img.shields.io/badge/-LimaCharlie-00FF41?&style=for-the-badge&logo=limacharlie&logoColor=white" />
 <img src="https://img.shields.io/badge/-Wazuh-557C94?&style=for-the-badge&logo=wazuh&logoColor=white" />
 </div>
+
   
 ### Certifications
 
