@@ -83,5 +83,25 @@ My journey as a Technical Support Engineer has led me to develop a passion for c
 - <a href="https://medium.com/@CyberHacck/how-to-create-transport-rule-mail-flow-rule-in-exchange-online-to-reduce-phishing-attacks-901c161efd05">CREATING MAIL FLOW RULE (TRANSPORT RULE) TO PREVENT PHISHING ATTACKS </a>
  
 - <a href="https://medium.com/@CyberHacck/how-to-install-and-configure-the-ibm-qradar-community-edition-on-virtual-machine-f9fcaa167656"> HOW TO INSTALL AND CONFIGURE THE IBM QRADAR COMMUNITY EDITION ON VIRTUAL MACHINE </a>
- 
 
+### Publications
+
+- <a href="https://pathofscience.org/index.php/ps/article/view/3201">Identifying Internet of Things Devices through Unique Digital Signatures and Advanced Machine Learning Techniques</a>
+ 
+- <a href="http://dx.doi.org/10.22178/pos.106-6">A Sustainable Energy Future: Leveraging the Potential of Smart Energy Systems </a>
+
+- <a href="https://doi.org/10.30574/wjarr.2024.23.2.2332">E-commerce on Hardware sales: A case study of Computer technologies Union in Owerri, Nigeria. </a>
+
+ <a
+    id="cy-effective-orcid-url"
+    class="bold"
+     href="https://orcid.org/0009-0002-8780-0678"
+     target="orcid.widget"
+     rel="me noopener noreferrer"
+     style="vertical-align: top">
+     <img
+        src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
+        style="width: 1em; margin-inline-start: 0.5em"
+        alt="ORCID iD icon"/>
+     Click here to view my complete Publications on Orchid
+    </a>
