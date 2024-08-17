@@ -4,11 +4,11 @@
 
 # Introduction 
 
-I am a Technical Support Engineer and Cloud Administrator with a passion for IT and Cybersecurity and a dedication to solving complex problems. 
+An experienced technical support engineer with expertise in Microsoft 365 Cloud Administration and a strong background in cybersecurity, particularly in Security Operations Centers. Dedicated to delivering exceptional service and advanced solutions to protect enterprise networks, systems and data.
 
 # Objective
 
-My journey as a Technical Support Engineer has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst. If you need a mediocre SOC Analyst then I am happy to disappoint you as I only render exceptional services. 
+Information technology, speciifcally cybersecurity is a field I am very passionate about and I love solving complex problems. Currently, I am obsessed with improving IoT security through research that leverages Machine Learning and Artificial Intelligence. 
 
 ## Skills
 
