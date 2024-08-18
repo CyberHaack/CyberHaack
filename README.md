@@ -1,5 +1,7 @@
 # Hello, I'm Kachi
 <a href="https://linkedin.com/in/kachiokereke/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>  <a href="https://twitter.com/CyberHacck"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://medium.com/@CyberHacck"><img src="https://img.shields.io/badge/-Medium-12100E?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+<a href="https://scholar.google.com/citations?user=VpIEeYwAAAAJ&hl=en&authuser=1"><img src="https://img.shields.io/badge/-Google%20Scholar-4285F4?&style=for-the-badge&logo=google-scholar&logoColor=white" /></a>
+<a href="https://www.researchgate.net/profile/Ruth-Okereke"><img src="https://img.shields.io/badge/-ResearchGate-00CCBB?&style=for-the-badge&logo=researchgate&logoColor=white" /></a>
 
 
 # Introduction 
@@ -8,7 +10,7 @@ An experienced technical support engineer with expertise in Microsoft 365 Cloud 
 
 # Objective
 
-Information technology, speciifcally cybersecurity is a field I am very passionate about and I love solving complex problems. Currently, I am obsessed with improving IoT security through research that leverages Machine Learning and Artificial Intelligence. 
+I am currently working on improving IoT security through research that integrates Machine Learning and Artificial Intelligence. I am also interested in collaborating in research areas that focus on security & privacy, and Responsible AI. 
 
 ## Skills
 
@@ -42,6 +44,7 @@ Information technology, speciifcally cybersecurity is a field I am very passiona
     <img src="https://img.shields.io/badge/-Azure%20Active%20Directory-0089D6?style=for-the-badge&logo=azure-active-directory&logoColor=white" />
    <img src="https://img.shields.io/badge/-Microsoft%20Defender-0078D7?style=for-the-badge&logo=microsoft-defender&logoColor=white" />
    <img src="https://img.shields.io/badge/-Microsoft%20365-747474?style=for-the-badge&logo=microsoft&logoColor=white" />
+   
   
  
  </div>
