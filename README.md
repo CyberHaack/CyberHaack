@@ -71,7 +71,7 @@ I am currently working on improving IoT security through research that integrate
  - <img src="https://img.shields.io/badge/-SC--900-002050?style=for-the-badge&logo=microsoft&logoColor=white" /> 
  - <img src="https://img.shields.io/badge/%20ISO%2FIEC%2027001%20Associate-0066CC?&style=for-the-badge&logo=skillfront&logoColor=white" />
  - <img src="https://img.shields.io/badge/ISO%2FIEC%2020000%20Associate-0066CC?&style=for-the-badge&logo=skillfront&logoColor=white" />
- - <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /> In View
+ - <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
    
 
 
