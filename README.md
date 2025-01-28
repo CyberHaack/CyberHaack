@@ -6,11 +6,11 @@
 
 # Introduction 
 
-An experienced technical support engineer with expertise in Microsoft 365 Cloud Administration and a strong background in cybersecurity, particularly in Security Operations Centers. Dedicated to delivering exceptional service and advanced solutions to protect enterprise networks, systems and data.
+I am a seasoned Microsoft 365 Administrator and Cloud Engineer currently transitioning to Cybersecurity, where I aim to leverage my technical proficiency, research, and interpersonal skills to secure enterprise environments and critical infrastructures. I am a continuous learner with a proactive mindset and a solution-oriented approach to solving complex issues. I am driven by curiosity and a commitment to finding innovative solutions to protect enterprise networks, systems and data.
 
 # Objective
 
-I am currently working on improving IoT security through research that integrates Machine Learning and Artificial Intelligence. I am also interested in collaborating in research areas that focus on security & privacy, and Responsible AI. 
+Pursuing Excellence in Securing Critical Infrastructure for Large-Scale Enterprises and SMEs. I am currently working on improving the security  of critical infrastructure systems through research that integrates Machine Learning and Artificial Intelligence. I am also interested in collaborating in research areas that focus on security & privacy, and Responsible AI. 
 
 ## Skills
 
