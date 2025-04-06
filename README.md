@@ -32,6 +32,16 @@ Pursuing Excellence in Securing Critical Infrastructure for Large-Scale Enterpri
   <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
   <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
   <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Nmap-004672?&style=for-the-badge&logo=Nmap&logoColor=white" />
+
+</div>
+
+### Firewall
+<div>
+  <img src="https://img.shields.io/badge/-FortiGate-003B5C?&style=for-the-badge&logo=Fortinet&logoColor=white" />
+  <img src="https://img.shields.io/badge/-OPNsense-1F5B88?&style=for-the-badge&logo=OPNsense&logoColor=white" />
+  <img src="https://img.shields.io/badge/-pfSense-1D3C4D?&style=for-the-badge&logo=pfSense&logoColor=white" />
+
 </div>
   
 ### Endpoint
@@ -66,15 +76,12 @@ Pursuing Excellence in Securing Critical Infrastructure for Large-Scale Enterpri
   
 ### Certifications
 
+ - <a href="https://www.credly.com/badges/4bea57c9-ee16-4784-94bc-00047be08db9/public_url" target="_blank"><img src="https://img.shields.io/badge/- Fortinet%20FortiGate%207.4%20Administrator-EE3124?&style=for-the-badge&logo=Fortinet&logoColor=white" /></a>
+ - <a href="https://www.credly.com/badges/9e7221e1-373d-4f39-9e81-629a371fc77b/public_url" target="_blank"><img src="https://img.shields.io/badge/-Fortinet%20FortiGate%207.4%20Operator-EE3124?&style=for-the-badge&logo=Fortinet&logoColor=white" /></a>
+ - <a href="https://www.credly.com/badges/bb033869-f830-4fac-b523-8162536303b9/public_url" target="_blank"><img src="https://img.shields.io/badge/-Microsoft%20SC--900%3A%20Security%2C%20Compliance%2C%20and%20Identity%20Fundamentals-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" /></a>
+- <a href="https://www.skillfront.com/certifications/SkillFront-SFE040de4057aa61-78200762520052.pdf" target="_blank"><img src="https://img.shields.io/badge/-ISO%2FIEC%2020000%20IT%20Service%20Management%20Associate%E2%84%A2-005596?&style=for-the-badge&logo=SkillFront&logoColor=white" /></a>
 
- - <img src="https://img.shields.io/badge/-ISC2%20CC-003366?&style=for-the-badge&logo=isc2&logoColor=white" />
- - <img src="https://img.shields.io/badge/-SC--900-002050?style=for-the-badge&logo=microsoft&logoColor=white" /> 
- - <img src="https://img.shields.io/badge/%20ISO%2FIEC%2027001%20Associate-0066CC?&style=for-the-badge&logo=skillfront&logoColor=white" />
- - <img src="https://img.shields.io/badge/ISO%2FIEC%2020000%20Associate-0066CC?&style=for-the-badge&logo=skillfront&logoColor=white" />
- - <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
    
-
-
   
 ### Projects
 - <a href="https://github.com/CyberHaack/Incident-Monitoring-and-Detection-with-EDR"> Incident Monitoring and Detection Lab</a>
