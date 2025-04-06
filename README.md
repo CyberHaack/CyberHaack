@@ -17,7 +17,7 @@ Pursuing Excellence in Securing Critical Infrastructure for Large-Scale Enterpri
 | Skills                                       |        Associated Project              |
 |---------------------------------------------|----------------------------------------|
 | Monitoring and Detection with EDR                    | <a href="https://github.com/CyberHaack/Incident-Monitoring-and-Detection-with-EDR">SOC Detection Lab</a>|
-| Network Forensics and Analysis                       | <a href="https://github.com/CyberHaack/Network-Forensics-Lab"> SOC Detection Lab</a>|
+| Network Forensics and Analysis                       | <a href="https://github.com/CyberHaack/Network-Forensics-Lab"> Network Forensic Lab</a>|
 | Windows Security - Lsass Credential Attack Project   | <a href="https://github.com/CyberHaack/SIEM-Implementation-and-Log-Analysis">Windows Security Lab</a>|
 | Email Security - Exchange Online Protection          | <a href="https://github.com/CyberHaack/Exchange-Online-Protection">Email Security Lab</a>|
 | Opta Network Security: Firewall & ACL Configurations | <a href="https://github.com/CyberHaack/Opta-Network-Security"> Network Security Lab</a>| 
