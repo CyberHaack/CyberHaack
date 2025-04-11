@@ -14,7 +14,13 @@ jobs:
 
       - name: Fetch Latest Articles
         run: |
-          curl -s https://medium.com/feed/@CyberHacck | awk -F'<title>|</title>' '{print $2}' | head -n 5 > latest_articles.md
+          echo "Fetching RSS feed from https://medium.com/feed/@CyberHackk"
+          curl -s https://medium.com/feed/@CyberHackk -o raw_feed.xml
+          echo "Printing the first 200 characters of the fetched feed"
+          head -n 10 raw_feed.xml  # Print the first 200 characters to see the content
+          
+          # Parse the titles and update the README
+          awk -F'<title>|</title>' '{print $2}' raw_feed.xml | head -n 5 > latest_articles.md
 
       - name: Update README
         run: |
