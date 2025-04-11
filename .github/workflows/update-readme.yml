@@ -14,7 +14,7 @@ jobs:
 
       - name: Fetch Latest Articles
         run: |
-          curl -s https://your-blog-feed-url.com/rss | awk -F'<title>|</title>' '{print $2}' | head -n 5 > latest_articles.md
+          curl -s https://medium.com/feed/@CyberHacck | awk -F'<title>|</title>' '{print $2}' | head -n 5 > latest_articles.md
 
       - name: Update README
         run: |
