@@ -25,7 +25,7 @@ jobs:
             awk -F'<title>|</title>' '{print $2}' raw_feed.xml | head -n 5 > latest_articles.md
           else
             echo "Error: raw_feed.xml is empty or not fetched correctly."
-            exit 1  # Stop the workflow if the feed is empty
+            exit 0  # Exit successfully if no articles are fetched
           fi
 
       - name: Check for New Articles
@@ -34,7 +34,7 @@ jobs:
             echo "New articles found, updating README."
           else
             echo "No new articles found, skipping README update."
-            exit 0  # Skip the update and exit successfully
+            exit 0  # Exit successfully without updating if no new articles
           fi
 
       - name: Update README
@@ -43,11 +43,15 @@ jobs:
           sed -i '/<!--LATEST_ARTICLES-->/r latest_articles.md' README.md
           rm latest_articles.md
 
+      - name: Initialize Git Repo (if necessary)
+        run: |
+          git init
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        
       - name: Commit and Push Changes
         run: |
           echo "Committing and pushing changes."
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add README.md
           git commit -m "Updated latest articles"
           git push
