@@ -1,21 +1,33 @@
-# Hello, I'm Kachi
+# 👋 Hello, I'm Kachi 
+
+🔐 **Cybersecurity Engineer** | 🛡️ **SOC Analyst** | 🧠 **Blue Teamer** | 🖥️ **IAM Engineer**
+
+---
+
 <a href="https://linkedin.com/in/kachiokereke/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>  <a href="https://twitter.com/CyberHacck"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://medium.com/@CyberHacck"><img src="https://img.shields.io/badge/-Medium-12100E?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 <a href="https://scholar.google.com/citations?user=VpIEeYwAAAAJ&hl=en&authuser=1"><img src="https://img.shields.io/badge/-Google%20Scholar-4285F4?&style=for-the-badge&logo=google-scholar&logoColor=white" /></a>
 <a href="https://www.researchgate.net/profile/Ruth-Okereke"><img src="https://img.shields.io/badge/-ResearchGate-00CCBB?&style=for-the-badge&logo=researchgate&logoColor=white" /></a>
 
+---
 
-# Introduction 
+## 🧭 About Me
 
 I am a seasoned Microsoft 365 Administrator and Cloud Engineer currently transitioning to Cybersecurity, where I aim to leverage my technical proficiency, research, and interpersonal skills to secure enterprise environments and critical infrastructures. I am a continuous learner with a proactive mindset and a solution-oriented approach to solving complex issues. I am driven by curiosity and a commitment to finding innovative solutions to protect enterprise networks, systems and data.
 
-# Objective
+---
+
+## 🎯 Objective  
 
 Pursuing Excellence in Securing Critical Infrastructure for Large-Scale Enterprises and SMEs. I am currently working on improving the security  of critical infrastructure systems through research that integrates Machine Learning and Artificial Intelligence. I am also interested in collaborating in research areas that focus on security & privacy, and Responsible AI. 
 
-## Skills
+---
 
-| Skills                                       |        Associated Project              |
-|---------------------------------------------|----------------------------------------|
+## 📂 Projects
+
+Here are some of my notable projects:
+
+| Skills Gained                                     |        Associated Project              |
+|---------------------------------------------      |----------------------------------------|
 | Monitoring and Detection with EDR                    | <a href="https://github.com/CyberHaack/Incident-Monitoring-and-Detection-with-EDR">SOC Detection Lab</a>|
 | Network Forensics and Analysis                       | <a href="https://github.com/CyberHaack/Network-Forensics-Lab"> Network Forensic Lab</a>|
 | Windows Security - Lsass Credential Attack Project   | <a href="https://github.com/CyberHaack/SIEM-Implementation-and-Log-Analysis">Windows Security Lab</a>|
@@ -25,7 +37,12 @@ Pursuing Excellence in Securing Critical Infrastructure for Large-Scale Enterpri
 | Incident Response Planning and Execution	           | <a href="https://github.com/CyberHaack/Incident-Response-Planning-and-Execution">SOC Automation Lab</a> 
 | Scripting and Automation for Threat Mitigation	     | <a href="https://github.com/CyberHaack/Scripting-and-Automation-for-Threat-Mitigation">SOC Automation Lab</a>
 
-# Tools
+*For a complete list, check out my [repositories](https://github.com/CyberHaack?tab=repositories).*
+
+---
+
+
+## 🛠️ Tools
 
 ### Network
 <div>
@@ -47,7 +64,6 @@ Pursuing Excellence in Securing Critical Infrastructure for Large-Scale Enterpri
 ### Endpoint
  <div>
    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-   <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
 
 ### Cloud Management Interface
    <img src="https://img.shields.io/badge/-Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
@@ -55,8 +71,6 @@ Pursuing Excellence in Securing Critical Infrastructure for Large-Scale Enterpri
    <img src="https://img.shields.io/badge/-Microsoft%20Defender-0078D7?style=for-the-badge&logo=microsoft-defender&logoColor=white" />
    <img src="https://img.shields.io/badge/-Microsoft%20365-747474?style=for-the-badge&logo=microsoft&logoColor=white" />
    
-  
- 
  </div>
 
 ### SIEM
@@ -73,47 +87,34 @@ Pursuing Excellence in Securing Critical Infrastructure for Large-Scale Enterpri
 <img src="https://img.shields.io/badge/-Wazuh-557C94?&style=for-the-badge&logo=wazuh&logoColor=white" />
 </div>
 
-  
-### Certifications
+---
 
- - <a href="https://www.credly.com/badges/4bea57c9-ee16-4784-94bc-00047be08db9/public_url" target="_blank"><img src="https://img.shields.io/badge/- Fortinet%20FortiGate%207.4%20Administrator-EE3124?&style=for-the-badge&logo=Fortinet&logoColor=white" /></a>
- - <a href="https://www.credly.com/badges/9e7221e1-373d-4f39-9e81-629a371fc77b/public_url" target="_blank"><img src="https://img.shields.io/badge/-Fortinet%20FortiGate%207.4%20Operator-EE3124?&style=for-the-badge&logo=Fortinet&logoColor=white" /></a>
- - <a href="https://www.credly.com/badges/bb033869-f830-4fac-b523-8162536303b9/public_url" target="_blank"><img src="https://img.shields.io/badge/-Microsoft%20SC--900%3A%20Security%2C%20Compliance%2C%20and%20Identity%20Fundamentals-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" /></a>
-- <a href="https://www.skillfront.com/certifications/SkillFront-SFE040de4057aa61-78200762520052.pdf" target="_blank"><img src="https://img.shields.io/badge/-ISO%2FIEC%2020000%20IT%20Service%20Management%20Associate%E2%84%A2-005596?&style=for-the-badge&logo=SkillFront&logoColor=white" /></a>
+## 🏆 Certifications  
 
-   
-  
-### Projects
-- <a href="https://github.com/CyberHaack/Incident-Monitoring-and-Detection-with-EDR"> Incident Monitoring and Detection Lab</a>
-- <a href="https://github.com/CyberHaack/Network-Forensics-Lab"> Network Forensics Lab</a>
-- <a href=""> Malware Analysis Lab</a>
-- <a href=""> Vulnerability and Threat Assessment Lab</a>
+[![Fortigate 7.4 Administrator](https://img.shields.io/badge/Fortigate%207.4-Administrator-red?style=for-the-badge&logo=fortinet&logoColor=white)](https://www.credly.com/badges/4bea57c9-ee16-4784-94bc-00047be08db9/public_url)  
+[![Microsoft Certified: Security, Compliance, and Identity Fundamentals](https://img.shields.io/badge/Microsoft%20Certified-Security%2C%20Compliance%20%26%20Identity%20Fundamentals-blue?style=for-the-badge&logo=microsoft)](https://www.credly.com/badges/bb033869-f830-4fac-b523-8162536303b9/public_url)  
+[![Fortigate 7.4 Operator](https://img.shields.io/badge/Fortigate%207.4-Operator-red?style=for-the-badge&logo=fortinet&logoColor=white)](https://www.credly.com/badges/9e7221e1-373d-4f39-9e81-629a371fc77b/public_url)  
+[![ISO/IEC 20000 ITSM Associate](https://img.shields.io/badge/ISO%2FIEC%2020000-ITSM%20Associate-00C851?style=for-the-badge&logo=iso&logoColor=white)](https://www.skillfront.com/certifications/SkillFront-SFE040de4057aa61-78200762520052.pdf)  
+
+ --- 
+
+## 📚 Academic Publications  
 
 
-### Articles
+Here are some of my notable research publications:
 
-- <a href="https://medium.com/@CyberHacck/how-to-create-transport-rule-mail-flow-rule-in-exchange-online-to-reduce-phishing-attacks-901c161efd05">CREATING MAIL FLOW RULE (TRANSPORT RULE) TO PREVENT PHISHING ATTACKS </a>
+- <a href="http://dx.doi.org/10.58578/AJSTEA.v2i5.3813">The Cloud Security Revolution: Unlocking the Potential of AI and Machine Learning to Stay Ahead of Threats</a>
+
+- <a href="https://www.researchgate.net/publication/384455247_Exploring_the_Evolving_Threats_and_Future_Directions_of_Cyber_Security_in_the_Age_of_Technologies">Exploring the Evolving Threats and Future Directions of Cyber Security in the Age of Technologies </a>
+
+- <a href="https://www.researchgate.net/publication/384239873_Data_Privacy_Defense_Strategies_to_Mitigate_Internal_and_External_Hacking_Risks">Data Privacy Defense: Strategies to Mitigate Internal and External Hacking Risks
+ </a>
  
-- <a href="https://medium.com/@CyberHacck/how-to-install-and-configure-the-ibm-qradar-community-edition-on-virtual-machine-f9fcaa167656"> HOW TO INSTALL AND CONFIGURE THE IBM QRADAR COMMUNITY EDITION ON VIRTUAL MACHINE </a>
-
-### Publications
-
 - <a href="https://pathofscience.org/index.php/ps/article/view/3201">Identifying Internet of Things Devices through Unique Digital Signatures and Advanced Machine Learning Techniques</a>
  
-- <a href="http://dx.doi.org/10.22178/pos.106-6">A Sustainable Energy Future: Leveraging the Potential of Smart Energy Systems </a>
 
-- <a href="https://doi.org/10.30574/wjarr.2024.23.2.2332">E-commerce on Hardware sales: A case study of Computer technologies Union in Owerri, Nigeria. </a>
+*For a complete list of my reserach publications, check out my [ResearchGate](https://www.researchgate.net/profile/Ruth-Okereke/research).*
 
- <a
-    id="cy-effective-orcid-url"
-    class="bold"
-     href="https://orcid.org/0009-0002-8780-0678"
-     target="orcid.widget"
-     rel="me noopener noreferrer"
-     style="vertical-align: top">
-     <img
-        src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
-        style="width: 1em; margin-inline-start: 0.5em"
-        alt="ORCID iD icon"/>
-     Click here to view my complete Publications on Orchid
-    </a>
+---
+
+*Connect with me! Let's collaborate and make the digital world more secure!*
