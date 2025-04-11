@@ -16,19 +16,36 @@ jobs:
         run: |
           echo "Fetching RSS feed from https://medium.com/feed/@CyberHackk"
           curl -s https://medium.com/feed/@CyberHackk -o raw_feed.xml
-          echo "Printing the first 200 characters of the fetched feed"
-          head -n 10 raw_feed.xml  # Print the first 200 characters to see the content
-          
-          # Parse the titles and update the README
-          awk -F'<title>|</title>' '{print $2}' raw_feed.xml | head -n 5 > latest_articles.md
+          echo "Feed fetched successfully, checking the first 10 lines of raw_feed.xml"
+          head -n 10 raw_feed.xml  # Display the first 10 lines to verify the feed
+
+          # Check the raw_feed.xml content before processing
+          if [ -s raw_feed.xml ]; then
+            echo "Raw feed content is present, processing titles."
+            awk -F'<title>|</title>' '{print $2}' raw_feed.xml | head -n 5 > latest_articles.md
+          else
+            echo "Error: raw_feed.xml is empty or not fetched correctly."
+            exit 1  # Stop the workflow if the feed is empty
+          fi
+
+      - name: Check for New Articles
+        run: |
+          if [ -s latest_articles.md ]; then
+            echo "New articles found, updating README."
+          else
+            echo "No new articles found, skipping README update."
+            exit 0  # Skip the update and exit successfully
+          fi
 
       - name: Update README
         run: |
+          echo "Updating README with latest articles."
           sed -i '/<!--LATEST_ARTICLES-->/r latest_articles.md' README.md
           rm latest_articles.md
 
       - name: Commit and Push Changes
         run: |
+          echo "Committing and pushing changes."
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add README.md
