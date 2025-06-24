@@ -1,6 +1,6 @@
-# 👋 Hello, I'm Kachi 
+# 👋 Hello, My name is Ruth
 
-🔐 **Cybersecurity Engineer** | 🛡️ **SOC Analyst** | 🧠 **Blue Teamer** | 🖥️ **IAM Engineer**
+🔐 **Cybersecurity Engineer** | 🛡️ **SOC Analyst** | 🧠 **Blue Teamer** | 🖥️ **IAM Engineer** | **AI/ML Security Researcher** 
 
 ---
 
@@ -12,9 +12,8 @@
 
 ## 🧭 About Me
 
-I am a seasoned Microsoft 365 Administrator and Cloud Engineer currently transitioning to Cybersecurity, where I aim to leverage my technical proficiency, research, and interpersonal skills to secure enterprise environments and critical infrastructures. I am a continuous learner with a proactive mindset and a solution-oriented approach to solving complex issues. I am driven by curiosity and a commitment to finding innovative solutions to protect enterprise networks, systems and data.
+I am a seasoned Microsoft 365 Administrator and IAM Engineer who has transitioned into Cybersecurity. As a Cybersecurity Engineer, I leverage my technical expertise, research abilities, and interpersonal skills to help secure enterprise environments and critical infrastructures. I’m a continuous learner with a proactive mindset and a solution-oriented approach to solving complex challenges. I'm driven by curiosity and a commitment to innovation. I strive to develop effective and forward-thinking security solutions.
 
----
 
 ## 🎯 Objective  
 
@@ -91,7 +90,9 @@ Here are some of my notable projects:
 
 ## 🏆 Certifications  
 
-[![Fortigate 7.4 Administrator](https://img.shields.io/badge/Fortigate%207.4-Administrator-red?style=for-the-badge&logo=fortinet&logoColor=white)](https://www.credly.com/badges/4bea57c9-ee16-4784-94bc-00047be08db9/public_url)  
+[![Microsoft SC-200: Security Operations Analyst Associate](https://img.shields.io/badge/Microsoft%20SC--200-Security%20Operations%20Analyst%20Associate-blue?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/api/credentials/share/en-us/Kachi-5529/C7A085592B8C3E81?sharingId=4E60B2975648C94)    
+[![Microsoft MS-900: Microsoft 365 Fundamentals](https://img.shields.io/badge/Microsoft%20MS--900-Microsoft%20365%20Fundamentals-blue?style=for-the-badge&logo=microsoft&logoColor=white)](https://www.credly.com/badges/7ab2528d-d4de-4962-8afe-f5c4642d4701/public_url)    
+[![Fortigate 7.4 Administrator](https://img.shields.io/badge/Fortigate%207.4-Administrator-red?style=for-the-badge&logo=fortinet&logoColor=white)](https://www.credly.com/badges/4bea57c9-ee16-4784-94bc-00047be08db9/public_url)      
 [![Microsoft Certified: Security, Compliance, and Identity Fundamentals](https://img.shields.io/badge/Microsoft%20Certified-Security%2C%20Compliance%20%26%20Identity%20Fundamentals-blue?style=for-the-badge&logo=microsoft)](https://www.credly.com/badges/bb033869-f830-4fac-b523-8162536303b9/public_url)  
 [![Fortigate 7.4 Operator](https://img.shields.io/badge/Fortigate%207.4-Operator-red?style=for-the-badge&logo=fortinet&logoColor=white)](https://www.credly.com/badges/9e7221e1-373d-4f39-9e81-629a371fc77b/public_url)  
 [![ISO/IEC 20000 ITSM Associate](https://img.shields.io/badge/ISO%2FIEC%2020000-ITSM%20Associate-00C851?style=for-the-badge&logo=iso&logoColor=white)](https://www.skillfront.com/certifications/SkillFront-SFE040de4057aa61-78200762520052.pdf)  
