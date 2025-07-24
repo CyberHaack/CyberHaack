@@ -25,16 +25,14 @@ Pursuing Excellence in Securing Critical Infrastructure for Large-Scale Enterpri
 
 Here are some of my notable projects:
 
-| Skills Gained                                     |        Associated Project              |
-|---------------------------------------------      |----------------------------------------|
+| Skills Gained                                        |        Associated Project              |
+|---------------------------------------------         |----------------------------------------|
+| Zero Trust Implementation with Entra ID              | <a href="https://github.com/CyberHaack/ZeroTrust-Entra-ConditionalAccess">ModernIAM Lab</a>|
 | Monitoring and Detection with EDR                    | <a href="https://github.com/CyberHaack/Incident-Monitoring-and-Detection-with-EDR">SOC Detection Lab</a>|
 | Network Forensics and Analysis                       | <a href="https://github.com/CyberHaack/Network-Forensics-Lab"> Network Forensic Lab</a>|
 | Windows Security - Lsass Credential Attack Project   | <a href="https://github.com/CyberHaack/SIEM-Implementation-and-Log-Analysis">Windows Security Lab</a>|
 | Email Security - Exchange Online Protection          | <a href="https://github.com/CyberHaack/Exchange-Online-Protection">Email Security Lab</a>|
 | Opta Network Security: Firewall & ACL Configurations | <a href="https://github.com/CyberHaack/Opta-Network-Security"> Network Security Lab</a>| 
-| Security Automation with Shuffle SOAR                | <a href="https://github.com/CyberHaack/Security-Automation-with-Shuffle-SOAR">SOC Automation Lab</a>
-| Incident Response Planning and Execution	           | <a href="https://github.com/CyberHaack/Incident-Response-Planning-and-Execution">SOC Automation Lab</a> 
-| Scripting and Automation for Threat Mitigation	     | <a href="https://github.com/CyberHaack/Scripting-and-Automation-for-Threat-Mitigation">SOC Automation Lab</a>
 
 *For a complete list, check out my [repositories](https://github.com/CyberHaack?tab=repositories).*
 
