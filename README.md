@@ -88,12 +88,16 @@ Here are some of my notable projects:
 
 ## 🏆 Certifications  
 
-[![Microsoft SC-200: Security Operations Analyst Associate](https://img.shields.io/badge/Microsoft%20SC--200-Security%20Operations%20Analyst%20Associate-blue?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/api/credentials/share/en-us/Kachi-5529/C7A085592B8C3E81?sharingId=4E60B2975648C94)    
-[![Microsoft MS-900: Microsoft 365 Fundamentals](https://img.shields.io/badge/Microsoft%20MS--900-Microsoft%20365%20Fundamentals-blue?style=for-the-badge&logo=microsoft&logoColor=white)](https://www.credly.com/badges/7ab2528d-d4de-4962-8afe-f5c4642d4701/public_url)    
-[![Fortigate 7.4 Administrator](https://img.shields.io/badge/Fortigate%207.4-Administrator-red?style=for-the-badge&logo=fortinet&logoColor=white)](https://www.credly.com/badges/4bea57c9-ee16-4784-94bc-00047be08db9/public_url)      
+[![Microsoft SC-200: Security Operations Analyst Associate](https://img.shields.io/badge/Microsoft%20SC--200-Security%20Operations%20Analyst%20Associate-blue?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/api/credentials/share/en-us/Kachi-5529/C7A085592B8C3E81?sharingId=4E60B2975648C94)  
+[![Fortigate 7.4 Administrator](https://img.shields.io/badge/Fortigate%207.4-Administrator-red?style=for-the-badge&logo=fortinet&logoColor=white)](https://www.credly.com/badges/4bea57c9-ee16-4784-94bc-00047be08db9/public_url)   
 [![Microsoft Certified: Security, Compliance, and Identity Fundamentals](https://img.shields.io/badge/Microsoft%20Certified-Security%2C%20Compliance%20%26%20Identity%20Fundamentals-blue?style=for-the-badge&logo=microsoft)](https://www.credly.com/badges/bb033869-f830-4fac-b523-8162536303b9/public_url)  
-[![Fortigate 7.4 Operator](https://img.shields.io/badge/Fortigate%207.4-Operator-red?style=for-the-badge&logo=fortinet&logoColor=white)](https://www.credly.com/badges/9e7221e1-373d-4f39-9e81-629a371fc77b/public_url)  
-[![ISO/IEC 20000 ITSM Associate](https://img.shields.io/badge/ISO%2FIEC%2020000-ITSM%20Associate-00C851?style=for-the-badge&logo=iso&logoColor=white)](https://www.skillfront.com/certifications/SkillFront-SFE040de4057aa61-78200762520052.pdf)  
+[![EC-Council C|CT: Certified Cybersecurity Technician](https://img.shields.io/badge/EC--Council%20CCT-Certified%20Cybersecurity%20Technician-red?style=for-the-badge&logo=cybersecurity&logoColor=white)](#)   
+[![EC-Council CSA: Certified SOC Analyst](https://img.shields.io/badge/EC--Council%20CSA-Certified%20SOC%20Analyst-red?style=for-the-badge&logo=cybersecurity&logoColor=white)](#)  
+[![Fortigate 7.4 Operator](https://img.shields.io/badge/Fortigate%207.4-Operator-red?style=for-the-badge&logo=fortinet&logoColor=white)](https://www.credly.com/badges/9e7221e1-373d-4f39-9e81-629a371fc77b/public_url)   
+[![Microsoft Certified: Azure Fundamentals](https://img.shields.io/badge/Microsoft%20AZ--900-Azure%20Fundamentals-blue?style=for-the-badge&logo=microsoft&logoColor=white)](https://www.credly.com/badges/35419dcc-28a8-4f03-911f-a1c20cf357a6/public_url)  
+[![Microsoft Certified: Azure AI Fundamentals](https://img.shields.io/badge/Microsoft%20AI--900-Azure%20AI%20Fundamentals-blue?style=for-the-badge&logo=microsoft&logoColor=white)](https://www.credly.com/badges/3082bd54-d335-4c67-980a-fe9e2ac03817/public_url)  
+[![Microsoft 365 Certified: Fundamentals](https://img.shields.io/badge/Microsoft%20MS--900-Microsoft%20365%20Fundamentals-blue?style=for-the-badge&logo=microsoft&logoColor=white)](https://www.credly.com/badges/7ab2528d-d4de-4962-8afe-f5c4642d4701/public_url)  
+[![ISO/IEC 20000 ITSM Associate](https://img.shields.io/badge/ISO%2FIEC%2020000-ITSM%20Associate-00C851?style=for-the-badge&logo=iso&logoColor=white)](https://www.skillfront.com/certifications/SkillFront-SFE040de4057aa61-78200762520052.pdf)    
 
  --- 
 
