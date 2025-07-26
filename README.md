@@ -1,6 +1,6 @@
 # 👋 Hello, My name is Ruth
 
-🔐 **Cybersecurity Engineer** | 🛡️ **SOC Analyst** | 🧠 **Blue Teamer** | 🖥️ **IAM Engineer** | **AI/ML Security Researcher** 
+🔐 **Cybersecurity Analyst** | 🛡️ **SOC Analyst** | 🧠 **Blue Teamer** | 🖥️ **IAM Engineer** | **AI/ML Security Researcher** 
 
 ---
 
