@@ -36,7 +36,7 @@ Here are some of my notable projects:
 ---
 
 
-## 🛠️ Language & Tools 
+## 🛠️ Languages & Tools 
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 <img align="left" alt="PowerShell" width="30px" style="padding-right:10px;" src="https://img.icons8.com/color/48/powershell.png" />
