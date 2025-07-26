@@ -14,7 +14,7 @@
 ## 🧭 About Me
 
 
-I’m a Cybersecurity Analyst who is big on defending systems, simplifying security, and pursuing excellence in Identity and Access Management (IAM) and Incident Response. I enjoy working on real-world security challenges and building practical solutions that actually make a difference. I’m especially focused on securing access, detecting threats early, and helping organizations respond quickly when incidents happen. You’ll mostly find me working with SIEM, EDR, DLP, IAM, and SOAR tools. I spend a lot of time setting up policies, running simulations, building hands-on projects, and exploring how things work behind the scenes. I’m constantly learning, experimenting, and breaking boundaries in cybersecurity. Lately, I have been exploring the intersection of Machine Learning and Cybersecurity.  
+I’m a Cybersecurity Analyst who is big on defending systems, simplifying security, and pursuing excellence in Identity and Access Management (IAM) and Incident Response. I enjoy working on real-world security challenges and building practical solutions that actually make a difference. I’m especially focused on securing access, detecting threats early, and helping organizations respond quickly when incidents happen. You’ll mostly find me working with SIEM, EDR, DLP, IAM, and SOAR tools. I spend a lot of time setting up policies, running simulations, building hands-on projects, and exploring how things work behind the scenes. I’m constantly learning, building sustainable solutions, and breaking boundaries in cybersecurity. Lately, I have been exploring the intersection of Machine Learning and Cybersecurity.  
 
 ---
 
