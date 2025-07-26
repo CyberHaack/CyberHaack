@@ -4,7 +4,8 @@
 
 ---
 
-<a href="https://linkedin.com/in/kachiokereke/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>  <a href="https://twitter.com/CyberHacck"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://medium.com/@CyberHacck"><img src="https://img.shields.io/badge/-Medium-12100E?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/ruthokereke/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>  <a href="https://twitter.com/CyberHacck"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
+<a href="https://medium.com/@RuthOkereke"><img src="https://img.shields.io/badge/-Medium-12100E?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 <a href="https://scholar.google.com/citations?user=VpIEeYwAAAAJ&hl=en&authuser=1"><img src="https://img.shields.io/badge/-Google%20Scholar-4285F4?&style=for-the-badge&logo=google-scholar&logoColor=white" /></a>
 <a href="https://www.researchgate.net/profile/Ruth-Okereke"><img src="https://img.shields.io/badge/-ResearchGate-00CCBB?&style=for-the-badge&logo=researchgate&logoColor=white" /></a>
 
@@ -12,12 +13,8 @@
 
 ## 🧭 About Me
 
-I am a seasoned Microsoft 365 Administrator and IAM Engineer who has transitioned into Cybersecurity. As a Cybersecurity Engineer, I leverage my technical expertise, research abilities, and interpersonal skills to help secure enterprise environments and critical infrastructures. I’m a continuous learner with a proactive mindset and a solution-oriented approach to solving complex challenges. I'm driven by curiosity and a commitment to innovation. I strive to develop effective and forward-thinking security solutions.
 
-
-## 🎯 Objective  
-
-Pursuing Excellence in Securing Critical Infrastructure for Large-Scale Enterprises and SMEs. I am currently working on improving the security  of critical infrastructure systems through research that integrates Machine Learning and Artificial Intelligence. I am also interested in collaborating in research areas that focus on security & privacy, and Responsible AI. 
+I’m a Cybersecurity Analyst who is big on defending systems, simplifying security, and pursuing excellence in Identity and Access Management (IAM) and Incident Response. I enjoy working on real-world security challenges and building practical solutions that actually make a difference. I’m especially focused on securing access, detecting threats early, and helping organizations respond quickly when incidents happen. You’ll mostly find me working with SIEM, EDR, DLP, IAM, and SOAR tools. I spend a lot of time setting up policies, running simulations, building hands-on projects, and exploring how things work behind the scenes. I’m constantly learning, experimenting, and breaking boundaries in cybersecurity. Lately, I have been exploring the intersection of Machine Learning and Cybersecurity.  
 
 ---
 
@@ -25,7 +22,7 @@ Pursuing Excellence in Securing Critical Infrastructure for Large-Scale Enterpri
 
 Here are some of my notable projects:
 
-| Skills Gained                                        |        Associated Project              |
+| Domain                                               |        Associated Project              |
 |---------------------------------------------         |----------------------------------------|
 | Zero Trust Implementation with Entra ID              | <a href="https://github.com/CyberHaack/ZeroTrust-Entra-ConditionalAccess">ModernIAM Lab</a>|
 | Monitoring and Detection with EDR                    | <a href="https://github.com/CyberHaack/Incident-Monitoring-and-Detection-with-EDR">SOC Detection Lab</a>|
@@ -39,7 +36,20 @@ Here are some of my notable projects:
 ---
 
 
-## 🛠️ Tools
+## 🛠️ Language & Tools 
+
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+<img align="left" alt="PowerShell" width="30px" style="padding-right:10px;" src="https://img.icons8.com/color/48/powershell.png" />
+<img align="left" alt="Splunk" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/splunk/splunk-original-wordmark.svg" />       
+<img align="left" alt="Azure" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />
+<img align="left" alt="Kali Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-original.svg" />        
+<img align="left" alt="Pfsense" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pfsense/pfsense-original.svg" />
+<img align="left" alt="Anaconda" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" />
+<img align="left" alt="Ubuntu" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" />
+<br />
+
+
+---
 
 ### Network
 <div>
@@ -53,7 +63,6 @@ Here are some of my notable projects:
 ### Firewall
 <div>
   <img src="https://img.shields.io/badge/-FortiGate-003B5C?&style=for-the-badge&logo=Fortinet&logoColor=white" />
-  <img src="https://img.shields.io/badge/-OPNsense-1F5B88?&style=for-the-badge&logo=OPNsense&logoColor=white" />
   <img src="https://img.shields.io/badge/-pfSense-1D3C4D?&style=for-the-badge&logo=pfSense&logoColor=white" />
 
 </div>
